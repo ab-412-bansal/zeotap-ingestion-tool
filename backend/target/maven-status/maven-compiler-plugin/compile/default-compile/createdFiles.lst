@@ -1,0 +1,11 @@
+com\zeotap\ingestion\controller\ClickHouseExportController.class
+com\zeotap\ingestion\service\ClickHouseService.class
+com\zeotap\ingestion\config\WebConfig.class
+com\zeotap\ingestion\App.class
+com\zeotap\ingestion\service\ClickHouseExportService.class
+com\zeotap\ingestion\util\CsvUtils.class
+com\zeotap\ingestion\service\IngestionService.class
+com\zeotap\ingestion\controller\IngestionController.class
+com\zeotap\ingestion\controller\ClickHouseController.class
+com\zeotap\ingestion\controller\FileController.class
+com\zeotap\ingestion\service\FileService.class
