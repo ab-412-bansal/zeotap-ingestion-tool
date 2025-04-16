@@ -131,7 +131,7 @@ All prompts are recorded in [`prompts.txt`](./prompts.txt)
 
 ## 👤 Author
 
-**[Ayush Bansal]**  
+**Ayush Bansal**  
 Software Engineer Intern Candidate – Zeotap  
 📧 Email: ayush4bansal@gmail.com  
 🔗 GitHub: [https://github.com/ay-412-bansal](https://github.com/ay-412-bansal)
